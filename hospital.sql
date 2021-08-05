@@ -1,0 +1,1 @@
+kishorSELECT * FROM hospital.kishor;

@@ -1,0 +1,6 @@
+Customer_name,Customer_id,Customer_open_date,Last_consulted_date,Vaccination_Type,Doctor_name,State,Country,DOB,"Active customer"
+Matt,12345,2010-10-12,2012-10-13,MVD,NULL,BOS,NYC,1987-03-06,A
+Alex,123457,2010-10-12,2012-10-13,MVD,Paul,SA,USA,1987-03-06,A
+John,123458,2010-10-12,2012-10-13,MVD,NULL,TN,IND,1987-03-06,A
+Mathew,123459,2010-10-12,2012-10-13,MVD,NULL,WAS,PHIL,1987-03-06,A
+Jacob,1256,2010-10-12,2012-10-13,MVD,NULL,VIC,AU,1987-03-06,A
